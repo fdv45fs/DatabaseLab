@@ -1,0 +1,7 @@
+201	Bác sĩ chuyên khoa	1
+202	Y tá trưởng	2
+203	Dược sĩ	3
+204	Kỹ thuật viên xét nghiệm	4
+205	Chuyên viên hành chính y tế	5
+206	Chuyên viên quản lý bệnh viện	6
+207	Chuyên viên tư vấn sức khỏe	7

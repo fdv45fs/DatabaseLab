@@ -1,0 +1,10 @@
+101	Khoa Nội tổng quát
+102	Khoa Ngoại tổng quát
+103	Khoa Tim mạch
+104	Khoa Nhi
+105	Khoa Sản phụ khoa
+106	Khoa Cấp cứu
+107	Khoa Nội tiết
+108	Khoa Thần kinh
+109	Khoa Hô hấp
+110	Khoa Tiêu hóa

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cơ sở dữ liệu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Danh sách bác sĩ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Danh sách bệnh án.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giao diện Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kết quả xét nghiệm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý thuốc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý xét nghiệm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin cá nhân.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tiếp Đón Bệnh Nhân.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Xử lý bệnh án.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Đơn thuốc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Đổi mật khẩu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

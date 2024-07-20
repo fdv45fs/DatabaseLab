@@ -1,0 +1,20 @@
+1	Paracetamol	Thuốc giảm đau, hạ sốt
+2	Amoxicillin	Thuốc kháng sinh
+3	Metformin	Thuốc điều trị tiểu đường
+4	Simvastatin	Thuốc hạ cholesterol
+5	Lisinopril	Thuốc điều trị huyết áp cao
+6	Ibuprofen	Thuốc giảm đau, chống viêm
+7	Captopril	Thuốc điều trị huyết áp
+8	Nitroglycerin	Thuốc điều trị đau thắt ngực
+9	Insulin	Thuốc điều trị tiểu đường
+10	Omeprazole	Thuốc điều trị loét dạ dày
+11	Aspirin	Thuốc chống đông máu
+12	Atorvastatin	Thuốc hạ cholesterol
+13	Ramipril	Thuốc điều trị huyết áp cao
+14	Cetirizine	Thuốc chống dị ứng
+15	Diclofenac	Thuốc giảm đau, chống viêm
+16	Hydrochlorothiazide	Thuốc lợi tiểu
+17	Warfarin	Thuốc chống đông máu
+18	Amlodipine	Thuốc điều trị huyết áp cao
+19	Salbutamol	Thuốc điều trị hen suyễn
+20	Clarithromycin	Thuốc kháng sinh

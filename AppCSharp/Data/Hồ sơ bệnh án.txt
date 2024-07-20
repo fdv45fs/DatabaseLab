@@ -1,0 +1,5 @@
+1	1	1	2024-06-01	Ho và sốt	37.5	120	Viêm họng	Paracetamol - Số lượng: 10 - Liều dùng: 3 - Mỗi 8 giờ	NULL
+2	2	2	2024-06-02	Đau bụng	36.8	110	Nhiễm trùng đường tiêu hóa	Amoxicillin - Số lượng: 20 - Liều dùng: 2 - Mỗi 12 giờ	NULL
+3	1	1	2024-06-15	Ho không giảm	38.0	130	Viêm phổi	Amoxicillin - Số lượng: 20 - Liều dùng: 2 - Mỗi 12 giờ | Ibuprofen - Số lượng: 15 - Liều dùng: 3 - Mỗi 8 giờ	1
+4	3	3	2024-06-16	Mệt mỏi	37.0	115	Thiếu máu	Ferrous sulfate - Số lượng: 30 - Liều dùng: 1 - Mỗi ngày	NULL
+5	4	2	2024-06-20	Đau khớp	36.9	120	Viêm khớp	Diclofenac - Số lượng: 10 - Liều dùng: 3 - Mỗi 8 giờ	NULL

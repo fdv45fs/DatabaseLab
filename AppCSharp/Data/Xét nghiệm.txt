@@ -1,0 +1,10 @@
+1	1	1	2024-06-01 08:00	Xét nghiệm máu
+2	2	2	2024-06-02 09:30	Xét nghiệm nước tiểu
+3	3	1	2024-06-15 10:00	Xét nghiệm hình ảnh
+4	4	3	2024-06-16 11:00	Xét nghiệm dị ứng
+5	5	2	2024-06-20 14:00	Xét nghiệm đường huyết
+6	1	4	2024-06-03 08:30	Xét nghiệm tổng quát
+7	2	5	2024-06-04 09:00	Xét nghiệm hormone
+8	3	1	2024-06-17 10:15	Xét nghiệm vi sinh
+9	4	2	2024-06-18 11:20	Xét nghiệm chức năng gan
+10	5	3	2024-06-22 13:45	Xét nghiệm chức năng thận
